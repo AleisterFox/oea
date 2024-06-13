@@ -5,34 +5,28 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="author" content="Molcajete" />
-  <meta name="description" content="Cardiología clínica.
-    Subespecialista formado en centro médico nacional Siglo XXI Ciudad de México.
-    Diagnostico y tratamiento de las enfermedades Cardiovasculares (insuficiencia cardiaca, arritmias, bradicardia, taquicardia, bloqueo auriculoventricular, cardiopatía isquémica aguda o crónica, miocardiopatías, enfermedades del pericardio, Hipertensión arterial sistémica, estenosis carotidea, Enfermedad valvular cardiaca, entre otros).
-    Diagnostico especializado con herramientas diagnosticas como ecocardiograma, monitoreo Holter, monitoreo ambulatorio de la presión arterial, Prueba de esfuerzo.">
+  <meta name="description" content="Odontología estética avanzada con especialistas de la UNAM. Ofrecemos diagnóstico 3D y tratamientos de ortodoncia y armonización ortofacial de alta calidad.">
 
-  <meta name="Keywords" content="Doctor, Bulmaro Irving Padilla Gomez, salud, cardiología, cardiologo, internista, especialidad, científico, investigación, Puerto Vallarta, México">
+  <meta name="Keywords" content="Odontología estética, diagnóstico 3D, armonización ortofacial, ortodoncia, tratamientos dentales, especialistas UNAM, tomografía dental, alta calidad odontológica, salud dental, estética dental">
 
   <meta name="robots" content="all" />
-  <meta property="og:title" content="Dr. Bulmaro Irving Padilla Gomez" />
-  <meta property="og:description" content="Cardiología clínica.
-    Subespecialista formado en centro médico nacional Siglo XXI Ciudad de México.
-    Diagnostico y tratamiento de las enfermedades Cardiovasculares (insuficiencia cardiaca, arritmias, bradicardia, taquicardia, bloqueo auriculoventricular, cardiopatía isquémica aguda o crónica, miocardiopatías, enfermedades del pericardio, Hipertensión arterial sistémica, estenosis carotidea, Enfermedad valvular cardiaca, entre otros).
-    Diagnostico especializado con herramientas diagnosticas como ecocardiograma, monitoreo Holter, monitoreo ambulatorio de la presión arterial, Prueba de esfuerzo." />
+  <meta property="og:title" content="Odontologia Estetica Avanzada | OEA" />
+  <meta property="og:description" content="Odontología estética avanzada con especialistas de la UNAM. Ofrecemos diagnóstico 3D y tratamientos de ortodoncia y armonización ortofacial de alta calidad." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.drbulmaropadillacardiologia.com" />
-  <meta property="og:image" content="img/imagen.png" />
+  <meta property="og:url" content="" />
+  <meta property="og:image" content="img/favicon.png" />
   <meta property="og:image:width" content="300">
   <meta property="og:image:height" content="300">
-  <meta property="og:site_name" content="Dr. Bulmaro Irving Padilla Gomez" />
+  <meta property="og:site_name" content="Odontologia Estetica Avanzada | OEA" />
   <meta name="msapplication-TileColor" content="rgb(16, 48, 55)">
   <meta name="theme-color" content="rgb(16, 48, 55)">
 
-  <link rel="canonical" href="https://audiologiaintegral.com.mx/">
+  <link rel="canonical" href="">
 
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="css/style.css" />
   <link rel="stylesheet" href="css/animate.css" />
-  <link rel="shortcut icon" href="img/icon.png" type="image/x-icon" />
+  <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900" rel="stylesheet" />
@@ -40,18 +34,40 @@
   <link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.theme.min.css" />
   <link rel="stylesheet" href="css/loader.css" />
 
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CommunityHealth",
+      "name": "Odontologia Estetica Avanzada | OEA",
+      "image": "https://audiologiaintegral.com.mx/img/logo.png",
+      "@id": "",
+      "url": "https://audiologiaintegral.com.mx/",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dr. José María Vértiz 1328",
+        "addressLocality": "CDMX",
+        "postalCode": "03650",
+        "addressCountry": "MX"
+      },
+      "sameAs": [
+        "https://www.facebook.com/apoyosauditivosintegrales",
+        "https://www.instagram.com/audiologiaintegrallzc"
+      ]
+    }
+  </script>
+
   <script src="js/wow.min.js"></script>
   <script>
     new WOW().init();
   </script>
-  <title>Dr. Bulmaro Irving Padilla Gómez</title>
+  <title>Odontologia Estetica Avanzada | OEA</title>
 </head>
 
 <body>
 
 
   <div class="whatsapp">
-    <a href="https://wa.link/ueq8g6" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    <a href="" target="_blank"><i class="fab fa-whatsapp"></i>&nbsp;</a>
   </div>
 
   <!-- <div class="loader__screen" id="loader">
